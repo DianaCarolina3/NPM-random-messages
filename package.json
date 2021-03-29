@@ -14,7 +14,15 @@
   "author": "Diana Carolina Campuzano Garzón <dcaroli2015@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaCarolina3/NPM-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DianaCarolina3/NPM-random-messages/issues"
+  },
+  "homepage": "https://github.com/DianaCarolina3/NPM-random-messages#readme"
 }
