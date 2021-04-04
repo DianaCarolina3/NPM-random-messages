@@ -15,7 +15,7 @@ npm install -g random-msg
 # Usage
 
 ```bash
-random-msg
+random-message-diana
 ```
 
 # Contributing
